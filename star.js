@@ -48,12 +48,12 @@ if (message.content === prefix +'help') {
          let embed = new Discord.RichEmbed()
 .setThumbnail(message.author.avatarURL)
 	.setDescription (`
-╭━━━╮╭╮╱╱╱╱╱╭━━╮╱╱╱╭╮
-┃╭━╮┣╯╰╮╱╱╱╱┃╭╮┃╱╱╭╯╰╮
-┃╰━━╋╮╭╋━━┳━┫╰╯╰┳━┻╮╭╯
-╰━━╮┃┃┃┃╭╮┃╭┫╭━╮┃╭╮┃┃
-┃╰━╯┃┃╰┫╭╮┃┃┃╰━╯┃╰╯┃╰╮
-╰━━━╯╰━┻╯╰┻╯╰━━━┻━━┻━╯
+╭━━╮╭╮╱╱╱╱╱╱╭╮╱╭━━╮╱╱╱╭╮
+┃╭╮┃┃┃╱╱╱╱╱╱┃┃╱┃╭╮┃╱╱╭╯╰╮
+┃╰╯╰┫┃╭━━┳━━┫┃╭┫╰╯╰┳━┻╮╭╯
+┃╭━╮┃┃┃╭╮┃╭━┫╰╯┫╭━╮┃╭╮┃┃
+┃╰━╯┃╰┫╭╮┃╰━┫╭╮┫╰━╯┃╰╯┃╰╮
+╰━━━┻━┻╯╰┻━━┻╯╰┻━━━┻━━┻━╯
 
 -:alarm_clock: شغال24 ساعة
 -:rocket: سرعه اتصال ممتازه
@@ -62,7 +62,7 @@ if (message.content === prefix +'help') {
 -:dollar: مجاني بل كامل 
 -:books:البوت عربي بالكامل 
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ● 
-      ** مبرمج البوت :wrench: **","**@= Magno.¹¹#8110 **
+      ** مبرمج البوت :wrench: **","**LEGEND/ᎪᏫᏫᎠ **
 `)
 .setColor('RANDOM')
   message.author.sendEmbed(embed);
@@ -93,7 +93,7 @@ if (message.content === prefix +'help') {
 『**${prefix}**perms / يعرض لك برمشناتك بالسيرفر』
 『**${prefix}**skin / لعرض سكنك بماين كرافت』
 『**${prefix}**gif / يعطيك صورة متحركة』
- :globe_with_meridians:─══════ {✯StarBot✯} ══════─
+ :globe_with_meridians:─══════ {✯BlackBot✯} ══════─
 `)    
 .setColor('RANDOM')
  message.author.sendEmbed(embed);
@@ -111,7 +111,7 @@ if (message.content === prefix + 'help') {
 『**${prefix}**title [anything] / لتغير الكتابة الموجودة بلبروفايل』
 『**${prefix}**credit / لرؤية كم معاك كريدت』
 『**${prefix}**trans [user] / لتحويل كريدت』
-🤩─══════ {✯StarBot✯} ══════─
+🤩─══════ {✯BlackBot✯} ══════─
  `)  
 .setColor('RANDOM')
  message.author.sendEmbed(embed);
@@ -127,7 +127,7 @@ if (message.content === prefix +'help') {
 『**${prefix}**delete-colors / لحذف كل الالوان』
 『**${prefix}**colorslist / لعرض قائمة الالوان』
 『**${prefix}**color [Number] / لتغير لونك』
-⭐️─══════ {✯StarBot✯} ══════─
+⭐️─══════ {✯BlackBot✯} ══════─
 `)    
 .setColor('RANDOM')
  message.author.sendEmbed(embed);
@@ -145,7 +145,7 @@ if (message.content === prefix + 'help') {
 『**${prefix}**members / حاله الاعضاء』
 『**${prefix}**stats / معلومات عن البوت و كم صار للبوت شغال』
 『**${prefix}**info / لرؤية في كم سيرفر موجود البوت』
-🤖─══════ {✯StarBot✯} ══════─
+🤖─══════ {✯BlackBot✯} ══════─
  `)  
 .setColor('RANDOM')
  message.author.sendEmbed(embed);
@@ -160,7 +160,7 @@ if (message.content === prefix +'help') {
 『**${prefix}**code-js / أرسال البوت الاكواد بدل عنك』
 『code-js / لتفعيل ارسال البوت الاكواد بدل عنك يجب عمل شات بأسم』
 『**${prefix}**js / hastebin لرفع البوت الاكواد بدل عنك ع موقع』
-🛠─══════ {✯StarBot✯} ══════─
+🛠─══════ {✯BlackBot✯} ══════─
 `)    
 .setColor('RANDOM')
  message.author.sendEmbed(embed);
@@ -198,7 +198,7 @@ if (message.content === prefix + 'help') {
 『warns / لتفعيل تحذير العضو يجب عمل شات بأسم』
 『chat / لتفعيل الترحيب الكتابي يجب عمل شات بأسم』
 『member-log / لتفعيل الترحيب دخول وخروج العضو يجب عمل شات بأسم』
-:radioactive:─══════ {✯StarBot✯} ══════─
+:radioactive:─══════ {✯BlackBot✯} ══════─
  `)   
 .setColor('RANDOM')
  message.author.sendEmbed(embed);
@@ -224,7 +224,7 @@ if (message.content === prefix + 'help') {
 『**${prefix}**يعطيك عقاب و لازم تنفذه / عقاب』
 『**${prefix}**لعبه كت تويت / كت تويت』
 『**${prefix}**لعبه خواطر / خواطر』
-🎮─══════ {✯StarBot✯} ══════─
+🎮─══════ {✯BlackBot✯} ══════─
 `)    
 .setColor('RANDOM')
  message.author.sendEmbed(embed);
@@ -681,7 +681,7 @@ client.on('guildMemberAdd', member => {
                      
                                      .addField(' الـسيرفر', `${member.guild.name}`,true)
                                        
-     .setFooter("StarBot 🌟")
+     .setFooter("BlackBot ")
         .setTimestamp()
    
       channel.sendEmbed(embed);
@@ -782,7 +782,7 @@ const Sra7a = [
   var embed = new Discord.RichEmbed()
   .setColor('RANDOM')
    .setThumbnail(message.author.avatarURL) 
- .addField('StarBot 🌟' ,
+ .addField('BlackBot ' ,
   `${Za7f[Math.floor(Math.random() * Za7f.length)]}`)
   message.channel.sendEmbed(embed);
   console.log('[عقاب] Send By: ' + message.author.username)
@@ -908,7 +908,7 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {
   var embed = new Discord.RichEmbed()
   .setColor('RANDOM')
    .setThumbnail(message.author.avatarURL) 
- .addField('StarBot 🌟' ,
+ .addField('BlackBot ' ,
   `${Love[Math.floor(Math.random() * Love.length)]}`)
   message.channel.sendEmbed(embed);
   console.log('[حب] Send By: ' + message.author.username)
@@ -920,7 +920,7 @@ const Love = [  "**احبك / عدد قطرات المـــطر والشجر و
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
-  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/ttfWjtX**")
+  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/xKc2Up9**")
      
      
   message.channel.sendEmbed(embed);
